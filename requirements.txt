@@ -8,12 +8,12 @@ atomicwrites==1.4.0
 attrs==21.2.0
 Babel==2.9.1
 backcall==0.2.0
-basemap @ file:///C:/Data/basemap-1.2.2-cp38-cp38-win_amd64.whl
+basemap
 bleach==4.1.0
 blinker==1.8.2
 branca==0.8.1
 cachetools==4.2.4
-Cartopy @ file:///C:/Data/Cartopy-0.20.0-cp38-cp38-win_amd64.whl
+Cartopy
 certifi==2021.5.30
 cffi==1.14.6
 cftime==1.5.0
@@ -36,7 +36,7 @@ filetype==1.2.0
 fiona==1.10.1
 folium==0.18.0
 fsspec==2024.6.1
-GDAL @ file:///C:/Data/HydroClim/GDAL-3.3.1-cp38-cp38-win_amd64.whl
+GDAL
 geomet==0.3.0
 geopandas==0.13.2
 gitdb==4.0.12
@@ -66,7 +66,7 @@ jupyter-latex-envs==1.4.6
 jupyter-nbextensions-configurator==0.4.1
 jupyter-server==1.10.2
 jupyterlab==3.1.10
-jupyterlab-execute-time @ file:///C:/Data/PY_ENVS/py38_whl/jupyterlab-execute-time-master.zip
+jupyterlab-execute-time
 jupyterlab-pygments==0.1.2
 jupyterlab-server==2.7.2
 jupyterlab-widgets==1.0.1
@@ -142,7 +142,7 @@ PyYAML==5.4.1
 pyzmq==22.2.1
 qtconsole==5.1.1
 QtPy==1.10.0
-rasterio @ file:///C:/Data/HydroClim/rasterio-1.2.6-cp38-cp38-win_amd64.whl
+rasterio
 requests==2.32.4
 requests-kerberos==0.13.0
 requests-negotiate-sspi==0.5.2
